@@ -153,7 +153,7 @@ where the physics is weak (occupancy, breathing).
 ./run.sh          # starts backend + frontend, waits for health, opens the app
 ```
 
-Then open **http://localhost:5173**.
+Then open `http://localhost:5173` in your browser.
 
 <details>
 <summary>Manual (two terminals)</summary>
@@ -203,7 +203,7 @@ Everything runs against a physics-flavored simulator so the UI works anywhere.
 | `GET/POST/PATCH/DELETE` | `/api/rules` | automation rules |
 | `WS` | `/ws` | live state stream (~5 Hz) |
 
-Interactive docs (FastAPI): **http://localhost:8000/docs**.
+Interactive API docs (FastAPI) are served at `http://localhost:8000/docs` when the backend is running locally.
 
 ---
 
