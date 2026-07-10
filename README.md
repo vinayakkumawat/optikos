@@ -16,6 +16,12 @@ everything around you — with **no extra hardware**.
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TS%20%2B%20Vite-61DAFB)
 ![license](https://img.shields.io/badge/license-MIT-brightgreen)
 
+<br/>
+
+![Optikos dashboard — ~30 live signals derived from a single Wi-Fi link](docs/hero.png)
+
+<sub>Real capture: 28/29 signals live from one associated access point — motion, presence, occupancy, breathing (FFT), multi-link spatial activity, room localization and a full RF map.</sub>
+
 </div>
 
 ---
@@ -58,6 +64,15 @@ live signals across four layers:
 - **Automations** — trigger commands / webhooks on presence, motion, gesture or room entry.
 - **Data export** — one-click CSV (raw series) and JSON (raw + all derived signals).
 - **Runs anywhere** — full physics-flavored simulator when no real Wi-Fi is available.
+
+<details>
+<summary><b>See the full dashboard</b></summary>
+
+<br/>
+
+![Optikos full dashboard](docs/dashboard-full.png)
+
+</details>
 
 ---
 
