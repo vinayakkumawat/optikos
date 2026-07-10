@@ -18,7 +18,7 @@ everything around you — with **no extra hardware**.
 
 <br/>
 
-![Optikos dashboard — ~30 live signals derived from a single Wi-Fi link](docs/hero.png)
+![Optikos dashboard — ~30 live signals derived from a single Wi-Fi link](assets/hero.png)
 
 <sub>Real capture: 28/29 signals live from one associated access point — motion, presence, occupancy, breathing (FFT), multi-link spatial activity, room localization and a full RF map.</sub>
 
@@ -70,7 +70,7 @@ live signals across four layers:
 
 <br/>
 
-![Optikos full dashboard](docs/dashboard-full.png)
+![Optikos full dashboard](assets/dashboard-full.png)
 
 </details>
 

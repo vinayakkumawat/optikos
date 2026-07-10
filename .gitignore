@@ -20,3 +20,6 @@ frontend/.vite/
 
 # Runtime state (zones, coverage, automations persisted at runtime)
 backend/data/
+
+# Personal / local-only docs (resume + LinkedIn copy). Screenshots live in assets/.
+docs/
